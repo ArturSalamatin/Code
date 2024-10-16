@@ -1,4 +1,5 @@
-cmake_minimum_required(3.24)
+cmake_minimum_required(VERSION 3.12)
 project(MyFirstPrj)
 
 
+add_executable(progr2 main.cpp)
